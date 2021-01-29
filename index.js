@@ -8,11 +8,10 @@ var Arraysimbolos = ['&#x2665','&#x2660','&#x2663','&#x2666'];
 var numeros = Math.floor(Math.random()*(12)+1);
 var simbolos = Math.floor(Math.random()*(3)+1);
 
-
 //console.log(Arraynumeros= [numeros]);
 
 //let sign = window.prompt("cuadro");
-
+ 
 document.querySelector("div1").innerHTML = JSON.stringify(Arraysimbolos[simbolos])
 document.querySelector("div2").innerHTML = JSON.stringify(Arraynumeros[numeros])
 document.querySelector("div3").innerHTML = JSON.stringify(Arraysimbolos[simbolos])

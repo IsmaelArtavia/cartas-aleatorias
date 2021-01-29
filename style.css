@@ -2,7 +2,7 @@ body{
     background-color: green;
     
 
-}
+} 
 
 div{
     
@@ -12,25 +12,30 @@ div{
     height: 20%;  
   text-align: center;
   align-items: center;
+  border-radius: 20px;
+  margin-left: 40%; 
 }
 
-div1{
+div div1{
     text-align: left;
+    margin-right: 50%;
     color:black;
     font-size: 500%;
-
+    
 }
 
 
 
-div2{
+div div3{
     text-align: center;
     color:black;
     font-size: 500%;
+    margin-left: 50%;
 }
 
-div3{
+div div2{
     text-align: right;
     color: black;
     font-size: 500%;
+    
 }
