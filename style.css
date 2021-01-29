@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+    
+
+}
+
+div{
+    
+    background-color: white;
+       width: 20%;
+    border: 1px solid black;
+    height: 20%;  
+  text-align: center;
+  align-items: center;
+}
+
+div1{
+    text-align: left;
+    color:black;
+    font-size: 500%;
+
+}
+
+
+
+div2{
+    text-align: center;
+    color:black;
+    font-size: 500%;
+}
+
+div3{
+    text-align: right;
+    color: black;
+    font-size: 500%;
+}
