@@ -7,35 +7,42 @@ body{
 div{
     
     background-color: white;
-       width: 20%;
+       width: 27%;
     border: 1px solid black;
-    height: 20%;  
-  text-align: center;
-  align-items: center;
+    height: 350px;  
+     margin: 2% auto;
   border-radius: 20px;
-  margin-left: 40%; 
+ /** margin-left: 40%; **/
 }
 
 div div1{
     text-align: left;
-    margin-right: 50%;
+    margin-right: 60%;
     color:black;
     font-size: 500%;
     
 }
 
+
+
+
+div div2{
+    text-align: center;
+    color: black;
+    font-size: 500%;
+    margin-left: 43%;
+    
+}
 
 
 div div3{
     text-align: center;
     color:black;
     font-size: 500%;
-    margin-left: 50%;
+    margin-left: 60%;
+   rotate: 180deg;
+   margin-top: 19%;
+    float: right;
+    rotate: 180deg;
 }
-
-div div2{
-    text-align: right;
-    color: black;
-    font-size: 500%;
     
-}
